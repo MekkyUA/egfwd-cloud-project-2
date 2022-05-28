@@ -1,0 +1,14 @@
+[
+	{
+		"ParameterKey": "Environment",
+		"ParameterValue": "udacity"
+	},
+	{
+		"ParameterKey": "AMIID",
+		"ParameterValue": "ami-02701bcdc5509e57b"
+	},
+	{
+		"ParameterKey": "KeyPairName",
+		"ParameterValue": "udacity-egfwdcloud_keypair"
+	}
+]
