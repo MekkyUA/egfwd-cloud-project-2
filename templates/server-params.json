@@ -8,6 +8,10 @@
 		"ParameterValue": "ami-0ee8244746ec5d6d4"
 	},
 	{
+		"ParameterKey": "InstanceType",
+		"ParameterValue": "t2.micro"
+	},
+	{
 		"ParameterKey": "KeyPairName",
 		"ParameterValue": "udacity-egfwdcloud_keypair"
 	}
