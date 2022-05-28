@@ -72,6 +72,9 @@ Resources:
           #!/bin/bash
           sudo apt-get update -y
           sudo apt-get install apache2 -y
+          sudo su
+          echo '<h2 style="text-align: center;">It works! Udagram, Udacity.</h2>' > /var/www/html/index.html
+          exit
           sudo systemctl start apache2.service
       ImageId: !Ref AMIID
       KeyName: !Ref KeyPairName
