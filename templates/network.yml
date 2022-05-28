@@ -1,9 +1,9 @@
 Description: >
-  Mahmoud Hamed | Udacity/EG-FWD-Cloud Project #2
+  Mahmoud Hamed | Udacity/EG-FWD-Cloud Project #2.
   This template deploys:
-  - A VPC with a pair of public and private subnets spread across two availabilty zones.
-  - An Internet Gateway with a default route on the public subnets.
-  - A pair of NAT Gateways one for each availability zone with default routes in the private subnets.
+  , A VPC with a pair of public and private subnets spread across two availabilty zones.
+  , An Internet Gateway with a default route on the public subnets.
+  , A pair of NAT Gateways one for each availability zone with default routes in the private subnets.
 
 Parameters:
   Environment:
